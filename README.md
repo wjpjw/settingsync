@@ -2,8 +2,5 @@
 
 Atom setting sync
 
-personal access token 
-3f90ba1457734827add7bbd07c0258d7b77f7575
-
-gist id
-bdc977811c6bfa8da080e2146ff8c4e0
+    gistId: "bea79abc72503760c057f1e8fb7ccae3"
+    personalAccessToken: "b59ade95917c15a4632d294a5a3e3b33ccee9514"
